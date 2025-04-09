@@ -1,7 +1,3 @@
-Here’s a clean and professional **README.md** for your NSE Stock Analysis script:
-
----
-
 # 📊 NSE Stock Market Analysis Tool
 
 This Python script fetches real-time stock data for the **NIFTY 50 Index** from the **NSE India API**, analyzes it, and visualizes:
@@ -94,7 +90,3 @@ The script is modular. You can easily add:
 - Export to Excel or Database
 
 Feel free to fork and customize!
-
----
-
-Let me know if you’d like this exported to a `README.md` file or uploaded somewhere!
